@@ -1,4 +1,3 @@
-GBALIB_DIR = /home/jviszlai/Documents/GHP2021/Elective/gba_lib
 GBALIB_OBJS = $(wildcard $(GBALIB_DIR)/build/*.o)
 PROJ_DIR = .
 BUILD_DIR = $(PROJ_DIR)/build
